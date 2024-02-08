@@ -1,4 +1,4 @@
-# first_app
+# Flutter-Supabase-Auth
 
 A new Flutter project.
 
